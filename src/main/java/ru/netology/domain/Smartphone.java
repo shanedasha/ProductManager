@@ -13,6 +13,7 @@ public class Smartphone extends Product {
         this.producer = producer;
     }
 
+
     public String getProducer() {
         return producer;
     }
